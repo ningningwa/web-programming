@@ -1,0 +1,16 @@
+/* Your CSS here. */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+}
+.tc {
+    text-align: center;
+}
+.italic {
+    text-align: center;
+    font-style: italic;
+}
